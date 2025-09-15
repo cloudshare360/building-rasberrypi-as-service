@@ -52,7 +52,7 @@ The **Raspberry Pi** is a revolutionary mini single-board computer that opens up
 ✅ **Getting Started Guide** - Documentation to begin immediately  
 
 ### Investment:
-- **Service Fee**: $120 (one-time)
+- **Service Fee**: 30$ - $120 (one-time)
 - **Parts Cost**: $150-$300 (depending on configuration)
 - **Total Investment**: $270-$420 for a complete system
 
